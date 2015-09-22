@@ -1,0 +1,5 @@
+Steps to run this project
+
+logistic_regression.py -f breastcancer.csv -t 0.0004 -e .00004
+logistic_regression.py -f diabetes.csv -t 0.00004 -e .00004
+logistic_regression.py -f spambase.csv -t 0.00004 -e .00004

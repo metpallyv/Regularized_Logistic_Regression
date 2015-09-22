@@ -1,0 +1,82 @@
+BreastCancer dataset
+Logistic Regression	
+Accuracy :  98
+Accuracy :  94
+Accuracy :  98
+Accuracy :  98
+Accuracy :  98
+Accuracy :  94
+Accuracy :  94
+Accuracy :  98
+Accuracy :  98
+Accuracy :  94
+Mean :  96.4  SD :  1.95959179423
+
+Regularized Logistic Regression
+Accuracy :  98
+Accuracy :  98
+Accuracy :  92
+Accuracy :  96
+Accuracy :  94
+Accuracy :  94
+Accuracy :  98
+Accuracy :  100
+Accuracy :  96
+Accuracy :  100
+Mean :  96.6  SD :  2.53771550809
+
+
+Daibetes data
+Logistic Regression	
+Accuracy :  75
+ Accuracy :  76
+ Accuracy :  75
+ Accuracy :  77
+ Accuracy :  74
+ Accuracy :  77
+ Accuracy :  84
+ Accuracy :  79
+ Accuracy :  70
+ Accuracy :  73
+Mean :  76.0  SD :  3.54964786986
+
+Regularized Logistic Regression
+Accuracy :  81
+Accuracy :  79
+Accuracy :  70
+Accuracy :  76
+Accuracy :  76
+Accuracy :  80
+Accuracy :  77
+Accuracy :  74
+Accuracy :  79
+Accuracy :  76
+Mean :  76.8  SD :  3.05941170816
+
+
+SpamBase dataset
+Logistic Regression	
+Accuracy :  92
+Accuracy :  89
+Accuracy :  91
+Accuracy :  90
+Accuracy :  90
+Accuracy :  89
+Accuracy :  89
+Accuracy :  88
+Accuracy :  91
+Accuracy :  92
+Mean :  90.1  SD :  1.3
+
+Regularized Logistic Regression
+Accuracy :  93
+Accuracy :  90
+Accuracy :  92
+Accuracy :  91
+Accuracy :  91
+Accuracy :  90
+Accuracy :  90
+Accuracy :  89
+Accuracy :  92
+Accuracy :  93
+Mean :  91.1
